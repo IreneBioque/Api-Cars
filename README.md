@@ -4,7 +4,7 @@
 
 ## Api de cars
 
-Api sencilla creada con Nestjs creada a partir del curso de Fernando Herrera.  [Github](https://github.com/Klerith)
+Api sencilla creada con Nestjs creada a partir del curso de [Fernando Herrera.](https://github.com/Klerith)
 
 # Car Dealship
 
